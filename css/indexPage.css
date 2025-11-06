@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 15%;
+  
+  border-radius: 10px;
+  padding: 10px;
+   background-color: rgba(128, 128, 128, 0.286);
+    text-align: center;
+
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+.name {
+  color: #ffeb3b; 
+  font-weight: bold;
+}
